@@ -1,4 +1,3 @@
-# BLENDED LEARNING
 # Implementation of Support Vector Machine for Classifying Food Choices for Diabetic Patients
 <H3>NAME: ISREAL MOSES B</H3>
 <H3>REGISTER NO.: 212221040060</H3>
